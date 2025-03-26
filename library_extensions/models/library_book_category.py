@@ -9,3 +9,5 @@ class LibraryBookCategory(models.Model):
         required=True,
         unique=True
     )
+
+    
